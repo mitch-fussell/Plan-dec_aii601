@@ -1,0 +1,29 @@
+from,to,mode,fare_usd_pp,class,how_derived,duration,source
+Dublin,Amsterdam,flight,82,economy,"KAYAK typical one-way avg ($51 current avg is 38% below typical)",~2h direct,https://www.kayak.com/flight-routes/Dublin-DUB/Amsterdam-Schiphol-AMS
+Dublin,Paris,flight,92,economy,"KAYAK typical one-way avg ($55 is 40% below typical)",~2h direct,https://www.kayak.com/flight-routes/Dublin-DUB/Paris-PAR
+Dublin,Prague,flight,124,economy,"KAYAK typical one-way avg ($67 is 46% below typical)",~2.5h direct,https://www.kayak.com/flight-routes/Dublin-DUB/Prague-PRG
+Dublin,Rome,flight,126,economy,"KAYAK typical one-way avg ($48 is 62% below typical)",~3h direct,https://www.kayak.com/flight-routes/Dublin-DUB/Rome-ROM
+Prague,Paris,flight,104,economy,"KAYAK typical one-way avg ($83 is 20% below typical)",~2h direct,https://www.kayak.com/flight-routes/Prague-PRG/Paris-PAR
+Prague,Rome,flight,78,economy,"KAYAK typical one-way avg ($57 is 27% below typical)",~2h direct,https://www.kayak.com/flight-routes/Prague-PRG/Rome-ROM
+Prague,Amsterdam,flight,123,economy,"KAYAK typical one-way avg ($79 is 36% below typical)",~1.5h direct,https://www.kayak.com/flight-routes/Prague-PRG/Amsterdam-Schiphol-AMS
+Paris,Rome,flight,126,economy,"KAYAK typical one-way avg ($88 is 30% below typical)",~2h direct,https://www.kayak.com/flight-routes/Paris-PAR/Rome-ROM
+Paris,Amsterdam,flight,105,economy,"KAYAK typical one-way avg ($78 is 26% below typical)",~1.2h direct,https://www.kayak.com/flight-routes/Paris-PAR/Amsterdam-Schiphol-AMS
+Rome,Amsterdam,flight,225,economy,"KAYAK typical one-way avg, AMS->ROM page ($153 is 32% below typical)",~2.5h direct,https://www.kayak.com/flight-routes/Amsterdam-Schiphol-AMS/Rome-ROM
+Prague,Paris,train,85,standard (2nd),"Trainline advance Standard fare £64.09",13h39m,https://www.thetrainline.com/en/train-times/prague-to-paris
+Prague,Rome,train,92,standard (2nd),"Trainline advance Standard fare £69.84",19h42m,https://www.thetrainline.com/en/train-times/prague-to-rome
+Prague,Amsterdam,train,59,standard (2nd),"Trainline advance Standard fare £44.34",12h39m,https://www.thetrainline.com/en/train-times/prague-to-amsterdam
+Paris,Rome,train,35,standard (2nd),"Trainline advance Standard fare £26.60",14h38m,https://www.thetrainline.com/en/train-times/paris-to-rome
+Paris,Amsterdam,train,41,standard (2nd),"Trainline advance Standard fare £30.80",4h10m,https://www.thetrainline.com/en/train-times/paris-to-amsterdam
+Rome,Amsterdam,train,143,standard (2nd),"Trainline advance Standard fare £108.12",19h10m,https://www.thetrainline.com/en/train-times/rome-to-amsterdam
+Dublin,Amsterdam,train,525,unspecified,"Rome2Rio range midpoint $397-652; ferry + train via London",13h45m,https://www.rome2rio.com/s/Dublin/Amsterdam
+Dublin,Paris,train,420,unspecified,"Rome2Rio range midpoint $317-523; ferry + train + Eurostar",11h19m,https://www.rome2rio.com/s/Dublin/Paris
+Dublin,Prague,train,610,unspecified,"Rome2Rio range midpoint $437-782; ferry + train",29h22m,https://www.rome2rio.com/s/Dublin/Prague
+Dublin,Rome,train,1218,unspecified,"Rome2Rio range midpoint $696-1739; ferry to Cherbourg + train",34h44m,https://www.rome2rio.com/s/Dublin/Rome
+Dublin,Prague,bus,260,single class,"Rome2Rio range midpoint $182-338; bus + ferry",38h24m,https://www.rome2rio.com/s/Dublin/Prague
+Dublin,Rome,bus,945,single class,"Rome2Rio range midpoint $716-1173; train + ferry + bus",2d6h,https://www.rome2rio.com/s/Dublin/Rome
+Prague,Paris,bus,115,single class,"Rome2Rio range midpoint $70-160",12h45m,https://www.rome2rio.com/s/Prague/Paris
+Prague,Rome,bus,155,single class,"Rome2Rio range midpoint $100-210",21h,https://www.rome2rio.com/s/Prague/Rome
+Prague,Amsterdam,bus,103,single class,"Rome2Rio range midpoint $65-140",12h45m,https://www.rome2rio.com/s/Prague/Amsterdam
+Paris,Rome,bus,160,single class,"Rome2Rio range midpoint $110-210",20h20m,https://www.rome2rio.com/s/Paris/Rome
+Paris,Amsterdam,bus,60,single class,"Rome2Rio range midpoint $45-75",6h45m,https://www.rome2rio.com/s/Paris/Amsterdam
+Rome,Amsterdam,bus,255,single class,"Rome2Rio range midpoint $215-294",22h46m,https://www.rome2rio.com/s/Rome/Amsterdam
