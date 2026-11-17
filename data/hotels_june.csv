@@ -1,0 +1,6 @@
+city,price_per_night_usd_room,price_gbp,source,notes
+Dublin,181,137,https://www.skyscanner.net/hotels/ireland/dublin-hotels/ci-27540823,"Skyscanner average 3-star hotel per night; GBP->USD at 1.3212 (x-rates, 2026-11-15); not June-specific"
+Amsterdam,222,168,https://www.skyscanner.net/hotels/netherlands/amsterdam-hotels/ci-27536561,"Skyscanner average 3-star hotel per night; GBP->USD at 1.3212; not June-specific"
+Prague,89,67,https://www.skyscanner.net/hotels/czechia/prague-hotels/ci-27546033,"Skyscanner average 3-star hotel per night; GBP->USD at 1.3212; not June-specific"
+Rome,264,200,https://www.skyscanner.net/hotels/italy/rome-hotels/ci-27539793,"Skyscanner average 3-star hotel per night; GBP->USD at 1.3212; not June-specific"
+Paris,213,161,https://www.skyscanner.net/hotels/france/paris-hotels/ci-27539733,"Skyscanner average 3-star hotel per night; GBP->USD at 1.3212; not June-specific"
